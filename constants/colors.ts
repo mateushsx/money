@@ -1,0 +1,15 @@
+export const colors = {
+  primary: '#7C3AED',
+  primaryContrast: '#FFFFFF',
+  inactive: '#C4B5FD',
+  background: '#F5F3FF',
+  categoryIncome: '#D86EBF',
+  categoryFood: '#F28A50',
+  categoryHouse: '#E6D243',
+  categoryEducation: '#A774C1',
+  categoryTravel: '#5DBBD7',
+  primaryText: '#4C1D95',
+  secondaryText: '#7C3AED',
+  positiveText: '#10B981',
+  negativesText: '#EF4444',
+};
